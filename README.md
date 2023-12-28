@@ -46,4 +46,5 @@ Use the following template to record your findings:
 - [Link to Wireshark download](wireshark_download_link)
 - [Link to HxD download](hxd_download_link)
 - [Video: Using Wireshark to examine pcap file and upload hex to HxD](https://fast.wistia.net/embed/iframe/5x0knjlljt?seo=false&videoFoam=false&videoFoam=true)
+  - ![Video caption](https://github.com/w4kery/ANZ_PCAP/assets/32207684/98f4c9b7-4f94-45e7-ba2e-7345ce16870c)
 
