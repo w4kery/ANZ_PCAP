@@ -33,6 +33,12 @@ Use the following template to record your findings:
 
 [Answer Template.docx](https://github.com/w4kery/ANZ_PCAP/files/13790002/Task.2.-.Answer.Template.docx)
 
+How to write the report:
+
+[How to write a report (example).docx](https://github.com/w4kery/ANZ_PCAP/files/13790026/Task.resource.-.How.to.write.a.report.example.docx)
+
+
+
 ### Findings
 
 - [List of artifacts found]
